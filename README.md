@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Shinde</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **VAST on multiple projects based on tech stack MERN & Java Full stack**
+- 🔭 I’m currently working in **VAST on multiple projects based on tech stack MERN & Java Full stack**
 
 - 🌱 I’m currently learning **Python**
 
